@@ -8,7 +8,9 @@ Targets: iPhone and iPad with portrait and landscape mode
 Since, I did take home project in swift due to requirements. I am also sharing a small project that I was building in order to setup an architecture for reactive programming that can help us write decouple code with Unit testing ability. So please feel free to take look at that. Please feel free to let me know what do you think about it and how can I improve my skills.
 
 Take home test link: https://github.com/KevalPatel94/EarthQuakeCollector_EBay
+
 Driver Link: https://drive.google.com/drive/folders/1Nu2hHXUYOo5in5l_u_zFZO2Knx0AuCx9?usp=sharing
+
 RxSwiftArchitecture practice project: https://github.com/KevalPatel94/KevalPatel94-RxSwift-MVVM-Singleton-UnitTesting-Web-Api-Call-Clean-Code
 
 
